@@ -1,1 +1,2 @@
-# Design-Analysis-of-an-Algorithm
+# DAOA
+Design and Analysis of Algorithms
